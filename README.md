@@ -23,7 +23,7 @@
 
 The app is finally installed on your Android mobile device !!
 
-To directly download the apk [Click Here]( https://github.com/vishalvs9728/MessagingAPP/blob/master/APK/MessageMe.apk)
+To directly download the apk [Click Here]( https://github.com/vishalvs9728/Call_Activity/blob/master/APK/Call_Activity.apk)
 
  # Screenshots:
 
